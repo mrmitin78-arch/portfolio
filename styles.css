@@ -518,6 +518,15 @@ p {
     justify-content: center;
   }
 
+  #contact-title {
+    white-space: nowrap;
+    font-size: clamp(1.15rem, 5.2vw, 1.6rem);
+  }
+
+  .footer {
+    text-align: center;
+  }
+
   .hero__wall {
     min-height: 0;
     display: grid;
