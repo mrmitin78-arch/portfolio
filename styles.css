@@ -514,6 +514,10 @@ p {
 }
 
 @media (max-width: 799px) {
+  .topbar {
+    justify-content: center;
+  }
+
   .hero__wall {
     min-height: 0;
     display: grid;
